@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **NodeJS**
 
-- 🤝 I’m looking for help with **React**
+- 🤝 I’m looking for help with **Node JS**
 
 - 💬 Ask me about **JavaScript,React,redux toolkit**
 
